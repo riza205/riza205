@@ -1,16 +1,22 @@
-## Hi there 👋
+# hi, i'm riza :)
+i'm a cs student exploring tech, design, and creative projects.
 
-<!--
-**riza205/riza205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## currently learning
+- web development
+- python
+- c++
+- java
+- frontend design
 
-Here are some ideas to get you started:
+## projects
+🌷 quiz app  
+🌷 study tools  
+🌷 ui experiments  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## goals
+- build polished projects
+- improve problem solving
+- learn full-stack development
+
+## connect
+- linkedin: www.linkedin.com/in/rizafatima
