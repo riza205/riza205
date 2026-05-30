@@ -4,7 +4,7 @@ i'm a cs student exploring tech, design, and creative projects.
 ## currently learning
 - web development
 - python
-- c++
+- c
 - java
 - frontend design
 
