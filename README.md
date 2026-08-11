@@ -1,11 +1,11 @@
 # hey, i'm riza 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1100&color=3E5140&center=true&vCenter=true&width=650&lines=CSE+Student+%7C+Developer;Building+things+I+think+are+cool;Exploring+AI%2FML+%26+Web+Development" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&color=3E5140&center=true&vCenter=true&width=650&lines=CSE+Student+%7C+Developer;Building+things+I+think+are+cool;Exploring+AI%2FML+%26+Web+Development" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,typescript,react,nextjs,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,typescript,react,nextjs,tailwind,nodejs,git,github,vscode" />
 </p>
 
 ---
@@ -27,7 +27,6 @@
 ### what i'm working on
 
 - Data Structures & Algorithms
-- C++
 - Full-Stack Development
 - AI / ML
 - Building better projects
@@ -55,21 +54,12 @@ A web-based interface for managing automotive workshop operations.
 
 ---
 
-### github stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=riza205&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riza205&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
-
 ### let's connect
 
 <p align="center">
   <a href="https://github.com/riza205">GitHub</a>
   &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rizafatima">LinkedIn</a>
 </p>
 
 <p align="center">
