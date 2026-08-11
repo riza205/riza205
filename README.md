@@ -10,7 +10,9 @@ i'm a cs student exploring tech, design, and creative projects.
 
 ## projects
 🌷 FinSight-Financial Analyzer
+
 🌷 Workshop Management Dashboard
+
 🌷 Cool Websites
 
 ## goals
