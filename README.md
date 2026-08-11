@@ -9,9 +9,9 @@ i'm a cs student exploring tech, design, and creative projects.
 - frontend design
 
 ## projects
-🌷 quiz app  
-🌷 study tools  
-🌷 ui experiments  
+🌷 FinSight-Financial Analyzer
+🌷 Workshop Management Dashboard
+🌷 Cool Websites
 
 ## goals
 - build polished projects
