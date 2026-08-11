@@ -26,28 +26,52 @@
 
 ### what i'm working on
 
-```text
-→ Data Structures & Algorithms
-→ C++
-→ Full-Stack Development
-→ AI / ML
-→ Building better projects
-things i've built
+- Data Structures & Algorithms
+- C++
+- Full-Stack Development
+- AI / ML
+- Building better projects
 
-🌿 Antarsparsh by Meenu
-A calm, responsive therapy & wellness website built with Next.js, TypeScript,
-Tailwind CSS and Framer Motion.
+---
 
-💰 FinSight
-A personal finance dashboard that analyses bank statements and turns
-transaction data into useful spending insights.
+### things i've built
 
-🔧 Workshop Management Dashboard
+🌿 **Antarsparsh by Meenu**  
+A calm, responsive therapy & wellness website built with Next.js, TypeScript, Tailwind CSS and Framer Motion.
+
+💰 **FinSight**  
+A personal finance dashboard that analyses bank statements and turns transaction data into useful spending insights.
+
+🔧 **Workshop Management Dashboard**  
 A web-based interface for managing automotive workshop operations.
 
-my toolkit
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,typescript,react,nextjs,tailwind,nodejs,git,github,vscode" /> </p>
-github
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=riza205&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riza205&layout=compact&hide_border=true&theme=transparent" /> </p>
-let's connect
-<p align="center"> <a href="https://github.com/riza205">GitHub</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/">LinkedIn</a> </p> <p align="center"> <i>building, learning, experimenting ✦</i> </p> ```
+---
+
+### my toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,typescript,react,nextjs,tailwind,nodejs,git,github,vscode" />
+</p>
+
+---
+
+### github stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=riza205&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riza205&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+### let's connect
+
+<p align="center">
+  <a href="https://github.com/riza205">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
+
+<p align="center">
+  <i>building, learning, experimenting ✦</i>
+</p>
